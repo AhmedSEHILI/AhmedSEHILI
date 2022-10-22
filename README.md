@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsehili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsehili" /> </p>
 
-- 💬 Ask me about **ReactJS, Html, Css , TailwindCSS, NextJs, JavaScript**
+- 💬 Ask me about **ReactJS, HTML, CSS , TailwindCSS, NextJs**
 
 - 📫 How to reach me **ka_sehili@esi.dz**
 
