@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AhmedShl</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsehili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsehili" /> </p>
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
 - 💬 Ask me about **ReactJS, HTML, CSS , TailwindCSS, NextJs**
 
 - 📫 How to reach me **ka_sehili@esi.dz**
