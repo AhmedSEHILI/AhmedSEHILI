@@ -8,6 +8,7 @@
 - 📫 How to reach me **ka_sehili@esi.dz**
 
 - ⚡ Fun fact **I'm a Man**
+- good luck
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
