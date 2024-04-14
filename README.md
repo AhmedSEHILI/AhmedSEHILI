@@ -1,13 +1,10 @@
 [![MasterHead](https://i.ibb.co/WHkhTxQ/fffff.jpg)](https://instagram.com/ahmed_s_h_l)
 <h1 align="center">Hi 👋, I'm AhmedShl</h1>
-<h3 align="center">A passionate developer from Algeria</h3>
+<h3 align="center">A passionate developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsehili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsehili" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-- 💬 Ask me about **ReactJS, HTML, CSS , TailwindCSS, NextJs**
 
-- 📫 How to reach me **ka_sehili@esi.dz**
-
-- ⚡ Fun fact **I'm a Man**
+- 📫 How to reach me **ahmed.sehili@edu.univ-paris13.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
