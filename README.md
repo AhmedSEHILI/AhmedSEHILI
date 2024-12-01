@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/WHkhTxQ/fffff.jpg)](https://instagram.com/ahmed_s_h_l)
 <h1 align="center">Hi 👋, I'm AhmedShl</h1>
 <h3 align="center">A passionate developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsehili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsehili" /> </p>
